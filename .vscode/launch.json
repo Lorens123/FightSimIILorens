@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/FightSimIILorens/bin/Debug/net5.0/FightSimIILorens.dll",
             "args": [],
             "cwd": "${workspaceFolder}/FightSimIILorens",
-            "console": "internalConsole",
+            "console": "externalTerminal",
             "stopAtEntry": false
         },
         {
